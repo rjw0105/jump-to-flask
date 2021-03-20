@@ -1,0 +1,6 @@
+venv/
+/migrations
+.pytest_cache/
+.idea/
+__pycache__
+pybo.db
